@@ -6,7 +6,7 @@
 // Production:          Set VITE_API_BASE in .env file
 // =============================================
 
-const API_BASE = import.meta.env.VITE_API_BASE || 'https://durgapalstore.shop';
+const API_BASE = import.meta.env.VITE_API_BASE || 'http://162.55.25.67/~durgapal/';
 
 if (import.meta.env.DEV) {
     console.info('[FreshCart] API_BASE =', API_BASE);
