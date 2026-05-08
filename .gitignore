@@ -2,7 +2,7 @@
 node_modules/
 
 #HTML code
-legendary-html/
+legacy-html/
 
 # Build outputs
 dist/
